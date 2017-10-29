@@ -1,1 +1,1 @@
-# Chemical Process Design & Optiimization
+# Chemical Process Design & Optimization
